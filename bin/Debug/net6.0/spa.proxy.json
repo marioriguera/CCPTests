@@ -1,0 +1,8 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:44483",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "c:\\Users\\mdriguera\\Documents\\Repositorios\\Estudio\\. Net 6\\Control Clientes Proveedores\\ControlClientesProveedores\\ClientApp\\",
+"MaxTimeoutInSeconds": "120"
+}
+}
