@@ -29,12 +29,12 @@ namespace CCPTests.MathTools
         /// <returns></returns>
         [Theory]
         [InlineData(5, 9)]
-        [InlineData(89, 36)]
-        [InlineData(12, 3)]
-        [InlineData(74, 3)]
-        [InlineData(33, 6)]
-        [InlineData(13, 89)]
-        [InlineData(51, 79)]
+        [InlineData(10, 4)]
+        [InlineData(12, 2)]
+        [InlineData(1, 13)]
+        [InlineData(8, 6)]
+        [InlineData(13, 1)]
+        [InlineData(11, 3)]
         public async Task FirstInlineDataSumTests(double a, double b)
         {
             // Given
