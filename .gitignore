@@ -305,3 +305,17 @@ __pycache__/
 
 # OpenCover UI analysis results
 OpenCover/
+bin/Debug/net6.0/CCPTests.dll
+bin/Debug/net6.0/CCPTests.pdb
+bin/Debug/net6.0/ControlClientesProveedores.dll
+bin/Debug/net6.0/ControlClientesProveedores.pdb
+bin/Debug/net6.0/CoverletSourceRootsMapping
+obj/CCPTests.csproj.nuget.dgspec.json
+obj/project.assets.json
+obj/project.nuget.cache
+obj/Debug/net6.0/CCPTests.csproj.AssemblyReference.cache
+obj/Debug/net6.0/CCPTests.dll
+obj/Debug/net6.0/CCPTests.GeneratedMSBuildEditorConfig.editorconfig
+obj/Debug/net6.0/CCPTests.genruntimeconfig.cache
+obj/Debug/net6.0/CCPTests.pdb
+obj/Debug/net6.0/CCPTests.assets.cache
