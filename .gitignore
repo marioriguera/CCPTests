@@ -1,0 +1,5 @@
+#No incluir todo lo que hay dentro de estas carpetas
+bin/Debug/*
+
+#No incluir estos tipos de archivos
+*.cache
