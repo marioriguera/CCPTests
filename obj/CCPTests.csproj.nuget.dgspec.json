@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\mdriguera\\Documents\\Repositorios\\Estudio\\. Net 6\\Control Clientes Proveedores\\CCPTests\\CCPTests.csproj": {}
+    "C:\\Users\\mdriguera\\Documents\\Repositorios\\Estudio\\. Net 6\\Control Clientes Proveedores\\CCPTests\\CCPTests.csproj": {}
   },
   "projects": {
-    "c:\\Users\\mdriguera\\Documents\\Repositorios\\Estudio\\. Net 6\\Control Clientes Proveedores\\CCPTests\\CCPTests.csproj": {
+    "C:\\Users\\mdriguera\\Documents\\Repositorios\\Estudio\\. Net 6\\Control Clientes Proveedores\\CCPTests\\CCPTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\mdriguera\\Documents\\Repositorios\\Estudio\\. Net 6\\Control Clientes Proveedores\\CCPTests\\CCPTests.csproj",
+        "projectUniqueName": "C:\\Users\\mdriguera\\Documents\\Repositorios\\Estudio\\. Net 6\\Control Clientes Proveedores\\CCPTests\\CCPTests.csproj",
         "projectName": "CCPTests",
-        "projectPath": "c:\\Users\\mdriguera\\Documents\\Repositorios\\Estudio\\. Net 6\\Control Clientes Proveedores\\CCPTests\\CCPTests.csproj",
+        "projectPath": "C:\\Users\\mdriguera\\Documents\\Repositorios\\Estudio\\. Net 6\\Control Clientes Proveedores\\CCPTests\\CCPTests.csproj",
         "packagesPath": "C:\\Users\\mdriguera\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\mdriguera\\Documents\\Repositorios\\Estudio\\. Net 6\\Control Clientes Proveedores\\CCPTests\\obj\\",
+        "outputPath": "C:\\Users\\mdriguera\\Documents\\Repositorios\\Estudio\\. Net 6\\Control Clientes Proveedores\\CCPTests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -29,8 +29,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "c:\\Users\\mdriguera\\Documents\\Repositorios\\Estudio\\. Net 6\\Control Clientes Proveedores\\ControlClientesProveedores\\ControlClientesProveedores.csproj": {
-                "projectPath": "c:\\Users\\mdriguera\\Documents\\Repositorios\\Estudio\\. Net 6\\Control Clientes Proveedores\\ControlClientesProveedores\\ControlClientesProveedores.csproj"
+              "C:\\Users\\mdriguera\\Documents\\Repositorios\\Estudio\\. Net 6\\Control Clientes Proveedores\\ControlClientesProveedores\\ControlClientesProveedores.csproj": {
+                "projectPath": "C:\\Users\\mdriguera\\Documents\\Repositorios\\Estudio\\. Net 6\\Control Clientes Proveedores\\ControlClientesProveedores\\ControlClientesProveedores.csproj"
               }
             }
           }
@@ -89,14 +89,14 @@
         }
       }
     },
-    "c:\\Users\\mdriguera\\Documents\\Repositorios\\Estudio\\. Net 6\\Control Clientes Proveedores\\ControlClientesProveedores\\ControlClientesProveedores.csproj": {
+    "C:\\Users\\mdriguera\\Documents\\Repositorios\\Estudio\\. Net 6\\Control Clientes Proveedores\\ControlClientesProveedores\\ControlClientesProveedores.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\mdriguera\\Documents\\Repositorios\\Estudio\\. Net 6\\Control Clientes Proveedores\\ControlClientesProveedores\\ControlClientesProveedores.csproj",
+        "projectUniqueName": "C:\\Users\\mdriguera\\Documents\\Repositorios\\Estudio\\. Net 6\\Control Clientes Proveedores\\ControlClientesProveedores\\ControlClientesProveedores.csproj",
         "projectName": "ControlClientesProveedores",
-        "projectPath": "c:\\Users\\mdriguera\\Documents\\Repositorios\\Estudio\\. Net 6\\Control Clientes Proveedores\\ControlClientesProveedores\\ControlClientesProveedores.csproj",
+        "projectPath": "C:\\Users\\mdriguera\\Documents\\Repositorios\\Estudio\\. Net 6\\Control Clientes Proveedores\\ControlClientesProveedores\\ControlClientesProveedores.csproj",
         "packagesPath": "C:\\Users\\mdriguera\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\mdriguera\\Documents\\Repositorios\\Estudio\\. Net 6\\Control Clientes Proveedores\\ControlClientesProveedores\\obj\\",
+        "outputPath": "C:\\Users\\mdriguera\\Documents\\Repositorios\\Estudio\\. Net 6\\Control Clientes Proveedores\\ControlClientesProveedores\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
