@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3rANRIWM1WRa8EzImLA5FAIC8oGOdibDZsFcf0qs9QZ52SwFZ7Jl7BTNZih2+pcxsTojNfcjVfJGmLPqHs26nQ==",
+  "dgSpecHash": "OyztmN6yqw5e23rJBL0oGECAowUG1aLSNIMz8lZZeY9CslqgicPcuj/TKGaMsf38tN/52qqbnFdr+ALIxP72Xw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mdriguera\\Documents\\Repositorios\\Estudio\\. Net 6\\Control Clientes Proveedores\\CCPTests\\CCPTests.csproj",
+  "projectFilePath": "c:\\Users\\mdriguera\\Documents\\Repositorios\\Estudio\\. Net 6\\Control Clientes Proveedores\\CCPTests\\CCPTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mdriguera\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\mdriguera\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
